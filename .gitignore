@@ -1,0 +1,6 @@
+**/test-admin.json
+**.tfstate
+**.backup
+**personal**
+**/.terraform*
+serverless-shortener.sa
